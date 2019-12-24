@@ -1,5 +1,5 @@
 # hello world
-the first try
-/ni like Code, and i am still studying python.
-/ni want to learn more on github.
-/nthx github.
+the first try.
+I like Code, and i am still studying python.
+I want to learn more on github.
+Thx github.
